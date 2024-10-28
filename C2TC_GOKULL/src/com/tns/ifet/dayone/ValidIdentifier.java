@@ -1,5 +1,7 @@
 package com.tns.ifet.dayone;
-public class FirstProgram {
+
+public class ValidIdentifier {
+	
 	public static void main(String[] args) {
 		int $number = 100;
 		System.out.println("value of the number variable is : "+ $number);
